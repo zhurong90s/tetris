@@ -1,0 +1,17 @@
+.\Output\tetris.o: app\tetris.c
+.\Output\tetris.o: .\CMSIS\stm32f10x.h
+.\Output\tetris.o: .\CMSIS\core_cm3.h
+.\Output\tetris.o: C:\Keil\ARM\RV31\INC\stdint.h
+.\Output\tetris.o: .\CMSIS\system_stm32f10x.h
+.\Output\tetris.o: .\STM32Lib\inc\stm32f10x_conf.h
+.\Output\tetris.o: .\STM32Lib\inc\stm32f10x_exti.h
+.\Output\tetris.o: .\CMSIS\stm32f10x.h
+.\Output\tetris.o: .\STM32Lib\inc\stm32f10x_fsmc.h
+.\Output\tetris.o: .\STM32Lib\inc\stm32f10x_gpio.h
+.\Output\tetris.o: .\STM32Lib\inc\stm32f10x_rcc.h
+.\Output\tetris.o: .\STM32Lib\inc\stm32f10x_usart.h
+.\Output\tetris.o: .\STM32Lib\inc\misc.h
+.\Output\tetris.o: .\app\app_h\app_tft.h
+.\Output\tetris.o: C:\Keil\ARM\RV31\INC\stdio.h
+.\Output\tetris.o: .\app\app_h\app_usart1.h
+.\Output\tetris.o: .\app\app_h\tetris.h

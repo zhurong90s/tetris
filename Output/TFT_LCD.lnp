@@ -1,0 +1,4 @@
+--cpu Cortex-M3 ".\output\main.o" ".\output\stm32f10x_it.o" ".\output\app_usart1.o" ".\output\app_tft.o" ".\output\app_tetris.o" ".\output\core_cm3.o" ".\output\system_stm32f10x.o" ".\output\startup_stm32f10x_hd.o" ".\output\stm32f10x_exti.o" ".\output\stm32f10x_fsmc.o" ".\output\misc.o" ".\output\stm32f10x_usart.o" ".\output\stm32f10x_rcc.o" ".\output\stm32f10x_gpio.o" --library_type=microlib --strict --scatter ".\Output\TFT_LCD.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Listing\TFT_LCD.map" -o ".\Output\TFT_LCD.axf"

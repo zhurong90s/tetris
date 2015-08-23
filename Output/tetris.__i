@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I.\CMSIS -I.\STM32Lib\inc -I.\app\app_h -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\ST\STM32F10x" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ".\Output\tetris.o" --omf_browse ".\Output\tetris.crf" --depend ".\Output\tetris.d" "app\tetris.c"

@@ -1,0 +1,14 @@
+.\Output\app_usart.o: app\app_usart.c
+.\Output\app_usart.o: .\CMSIS\stm32f10x.h
+.\Output\app_usart.o: .\CMSIS\core_cm3.h
+.\Output\app_usart.o: C:\Keil\ARM\RV31\INC\stdint.h
+.\Output\app_usart.o: .\CMSIS\system_stm32f10x.h
+.\Output\app_usart.o: .\STM32Lib\inc\stm32f10x_conf.h
+.\Output\app_usart.o: .\STM32Lib\inc\stm32f10x_exti.h
+.\Output\app_usart.o: .\CMSIS\stm32f10x.h
+.\Output\app_usart.o: .\STM32Lib\inc\stm32f10x_fsmc.h
+.\Output\app_usart.o: .\STM32Lib\inc\stm32f10x_gpio.h
+.\Output\app_usart.o: .\STM32Lib\inc\stm32f10x_rcc.h
+.\Output\app_usart.o: .\STM32Lib\inc\stm32f10x_usart.h
+.\Output\app_usart.o: .\STM32Lib\inc\misc.h
+.\Output\app_usart.o: C:\Keil\ARM\RV31\INC\stdio.h

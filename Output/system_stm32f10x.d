@@ -1,0 +1,17 @@
+.\Output\system_stm32f10x.o: CMSIS\CM3\system_stm32f10x.c
+.\Output\system_stm32f10x.o: .\CMSIS\stm32f10x.h
+.\Output\system_stm32f10x.o: .\CMSIS\core_cm3.h
+.\Output\system_stm32f10x.o: C:\Keil\ARM\RV31\INC\stdint.h
+.\Output\system_stm32f10x.o: .\CMSIS\system_stm32f10x.h
+.\Output\system_stm32f10x.o: .\STM32Lib\inc\stm32f10x_conf.h
+.\Output\system_stm32f10x.o: .\STM32Lib\inc\stm32f10x_exti.h
+.\Output\system_stm32f10x.o: .\CMSIS\stm32f10x.h
+.\Output\system_stm32f10x.o: .\STM32Lib\inc\stm32f10x_fsmc.h
+.\Output\system_stm32f10x.o: .\STM32Lib\inc\stm32f10x_gpio.h
+.\Output\system_stm32f10x.o: .\STM32Lib\inc\stm32f10x_rcc.h
+.\Output\system_stm32f10x.o: .\STM32Lib\inc\stm32f10x_usart.h
+.\Output\system_stm32f10x.o: .\STM32Lib\inc\misc.h
+.\Output\system_stm32f10x.o: .\app\app_h\app_tft.h
+.\Output\system_stm32f10x.o: C:\Keil\ARM\RV31\INC\stdio.h
+.\Output\system_stm32f10x.o: .\app\app_h\app_usart1.h
+.\Output\system_stm32f10x.o: .\app\app_h\app_tetris.h
